@@ -1,4 +1,4 @@
-# Week 2 Tip:
+
 # Tlauncher-Native-M1
 Let's make Tlauncher to run in aarch64(Linux-macOS).
 
