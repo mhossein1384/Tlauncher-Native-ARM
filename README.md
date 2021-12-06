@@ -1,6 +1,6 @@
 
 # Tlauncher-Native-M1
-Let's make Tlauncher to run in aarch64(Linux-macOS(-Windows coming soon)).
+Let's make Tlauncher to run in aarch64(Linux-macOS).
 
 Tlauncher is a russian minecraft launcher: https://tlauncher.org/en/
 
