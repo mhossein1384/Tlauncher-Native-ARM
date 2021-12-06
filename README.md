@@ -15,7 +15,7 @@ Linux: ~/.local/share/tlauncher (If It's wrong ,fix it)
 
 macOS: ~/Library/Application Support/tlauncher
 # 3. Extract Java
-With an unarchive app or with $ tar -xf [The file name] command.
+With an unarchivever app or with $ tar -xf [The file name] command.
 # 4. Put Extracted JAVA To Tlauncher
 Linux: Go to ~/.local/share/tlauncher/jvms/ and open the one and only folder there and delete everything on that folder and replace it with files and folders inside .jdk (from the downloaded java) folder
 
