@@ -33,7 +33,7 @@ Now Open tlauncher.jar and enjoy the performance
 
 •(In Mac) The launcher thinks ARM java is 32bits so When I replace it with the main java It downloads the x86 java again...
 
-•In Linux download Java 17 ARM from Oracle Site and replace it with the one at minecraft/runtime/java-runtime-alpha(or beta)/  It might work.
+•In Linux download Java 17 ARM from Oracle Site and replace it with the one at minecraft/runtime/java-runtime-alpha(or beta)/  It might work. (Minecraft v1.18.x)
 
 •Windows ARM Version Is unavailable because There is no JDK ARM v1.8.0
 
